@@ -1,7 +1,5 @@
 # Hotel Website
-A good hotel website should have a clean design,be easy to navigate and include a lot of social proof. 
-Have a look at this page . I have designed Website for cinnoman lodge hotel Habarana using Html, css, Js.It contains Facilities,Gallery,contacts,services, Feedbacks etc:
-It's easy to use and navigate between tabs.
+I have designed Website for cinnoman lodge hotel Habarana using Html, css, Js.It contains Facilities,Gallery,contacts,services, Feedbacks etc:
 
 <p align="center">
   <kbd>
